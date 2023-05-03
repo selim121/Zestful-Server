@@ -1,69 +1,117 @@
 [
     {
-      "id": 1,
-      "chef_picture": "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/293801499_5947960655218335_4657835387268581503_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGHfItLaBTYSkK5Iq0cpOKk7MtnnU7vMwjsy2edTu8zCPCDdyxQKWZ94NL3z2z3bXAJg9gYjS2bUOlB2SdQrPRu&_nc_ohc=fKwnAqX1MwMAX_RJFCJ&_nc_ht=scontent.fdac14-1.fna&oh=00_AfAb7y1yiBgb41Y-7ylw1JfmG_7MK1fC7EzQZsYL2u3uEQ&oe=645675C0",
-      "chef_name": "Aarti Sharma",
-      "years_of_experience": "10",
-      "num_of_recipes": 8,
-      "likes": 850,
-      "recipes": [
-        {
-          "recipe_name": "Butter Chicken",
-          "description": "A classic North Indian dish made with tender chicken in a creamy tomato sauce.",
-          "ingredients": ["chicken", "tomatoes", "cream", "spices", "butter"],
-          "preparation_time": "40 minutes",
-          "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/3/0/FNK_the-best-butter-chicken_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1568051312157.jpeg"
-        },
-        {
-          "recipe_name": "Palak Paneer",
-          "description": "A popular North Indian vegetarian dish made with spinach and paneer.",
-          "ingredients": ["spinach", "paneer", "spices", "cream", "tomatoes"],
-          "preparation_time": "35 minutes",
-          "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/2/0/ZA0304H_saag-paneer-spinach-with-indian-cheese_s4x3.jpg.rend.hgtvcom.616.462.suffix/1488497807789.jpeg"
-        },
-        {
-          "recipe_name": "Masala Dosa",
-          "description": "A South Indian breakfast dish made with fermented rice and lentil batter, filled with spicy potato filling.",
-          "ingredients": ["rice", "lentils", "potatoes", "spices", "coconut chutney"],
-          "preparation_time": "12 hours",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg1ub25_fBUpnzORr5A3yt1ocMentMDmywfWEahpQfmEvsDceZIB4xybDt88Fbnf-qU7g&usqp=CAU"
-        },
-        {
-          "recipe_name": "Chana Masala",
-          "description": "A flavorful and spicy chickpea curry from North India.",
-          "ingredients": ["chickpeas", "tomatoes", "spices", "onions", "garlic"],
-          "preparation_time": "30 minutes",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdAUFuufRmbSNDUTdnBb1PBYsiKqkHuW9Fu72okLcE67RwThuvQfJPT5d07-rHQ9driqM&usqp=CAU"
-        },
-        {
-          "recipe_name": "Chicken Tikka Masala",
-          "description": "A popular dish made with marinated chicken in a spiced tomato-based sauce.",
-          "ingredients": ["chicken", "yogurt", "tomatoes", "spices", "cream"],
-          "preparation_time": "45 minutes",
-          "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/3/0/FNK_the-best-chicken-tikka-masala_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1567523604572.jpeg"
-        },
-        {
-          "recipe_name": "Samosas",
-          "description": "A savory fried or baked pastry filled with spiced potatoes, peas, and onions.",
-          "ingredients": ["potatoes", "peas", "flour", "spices", "chutney"],
-          "preparation_time": "1 hour",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Izh2byV9Wo9ja69MjTbjBg2Gy4zrUVpVbydUS_of4yZChnfhZKOEzxjX8-0DpwaMxNo&usqp=CAU"
-        },
-        {
-          "recipe_name": "Rogan Josh",
-          "description": "A rich and spicy lamb curry from the Kashmiri region of India.",
-          "ingredients": ["lamb", "yogurt", "spices", "tomatoes", "onions"],
-          "preparation_time": "2 hours",
-          "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/29/DV3306_lamb-rogan-josh_s4x3.jpg.rend.hgtvcom.616.462.suffix/1609268557562.jpeg"
-        },
-        {
-          "recipe_name": "Gulab Jamun",
-          "description": "A sweet dessert made with milk solids, deep-fried and soaked in sugar syrup.",
-          "ingredients": ["milk solids", "flour", "sugar", "rosewater", "cardamom"],
-          "preparation_time": "1 hour",
-          "image": "https://static.toiimg.com/photo/65841454.cms"
-        }
-      ]
+        "id": 1,
+        "chef_picture": "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/293801499_5947960655218335_4657835387268581503_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGHfItLaBTYSkK5Iq0cpOKk7MtnnU7vMwjsy2edTu8zCPCDdyxQKWZ94NL3z2z3bXAJg9gYjS2bUOlB2SdQrPRu&_nc_ohc=fKwnAqX1MwMAX_RJFCJ&_nc_ht=scontent.fdac14-1.fna&oh=00_AfAb7y1yiBgb41Y-7ylw1JfmG_7MK1fC7EzQZsYL2u3uEQ&oe=645675C0",
+        "chef_name": "Aarti Sharma",
+        "years_of_experience": "10",
+        "num_of_recipes": 8,
+        "likes": 850,
+        "recipes": [
+            {
+                "recipe_name": "Butter Chicken",
+                "description": "A classic North Indian dish made with tender chicken in a creamy tomato sauce.",
+                "ingredients": [
+                    "chicken",
+                    "tomatoes",
+                    "cream",
+                    "spices",
+                    "butter"
+                ],
+                "preparation_time": "40 minutes",
+                "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/3/0/FNK_the-best-butter-chicken_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1568051312157.jpeg"
+            },
+            {
+                "recipe_name": "Palak Paneer",
+                "description": "A popular North Indian vegetarian dish made with spinach and paneer.",
+                "ingredients": [
+                    "spinach",
+                    "paneer",
+                    "spices",
+                    "cream",
+                    "tomatoes"
+                ],
+                "preparation_time": "35 minutes",
+                "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/2/0/ZA0304H_saag-paneer-spinach-with-indian-cheese_s4x3.jpg.rend.hgtvcom.616.462.suffix/1488497807789.jpeg"
+            },
+            {
+                "recipe_name": "Masala Dosa",
+                "description": "A South Indian breakfast dish made with fermented rice and lentil batter, filled with spicy potato filling.",
+                "ingredients": [
+                    "rice",
+                    "lentils",
+                    "potatoes",
+                    "spices",
+                    "coconut chutney"
+                ],
+                "preparation_time": "12 hours",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg1ub25_fBUpnzORr5A3yt1ocMentMDmywfWEahpQfmEvsDceZIB4xybDt88Fbnf-qU7g&usqp=CAU"
+            },
+            {
+                "recipe_name": "Chana Masala",
+                "description": "A flavorful and spicy chickpea curry from North India.",
+                "ingredients": [
+                    "chickpeas",
+                    "tomatoes",
+                    "spices",
+                    "onions",
+                    "garlic"
+                ],
+                "preparation_time": "30 minutes",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdAUFuufRmbSNDUTdnBb1PBYsiKqkHuW9Fu72okLcE67RwThuvQfJPT5d07-rHQ9driqM&usqp=CAU"
+            },
+            {
+                "recipe_name": "Chicken Tikka Masala",
+                "description": "A popular dish made with marinated chicken in a spiced tomato-based sauce.",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "tomatoes",
+                    "spices",
+                    "cream"
+                ],
+                "preparation_time": "45 minutes",
+                "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/3/0/FNK_the-best-chicken-tikka-masala_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1567523604572.jpeg"
+            },
+            {
+                "recipe_name": "Samosas",
+                "description": "A savory fried or baked pastry filled with spiced potatoes, peas, and onions.",
+                "ingredients": [
+                    "potatoes",
+                    "peas",
+                    "flour",
+                    "spices",
+                    "chutney"
+                ],
+                "preparation_time": "1 hour",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Izh2byV9Wo9ja69MjTbjBg2Gy4zrUVpVbydUS_of4yZChnfhZKOEzxjX8-0DpwaMxNo&usqp=CAU"
+            },
+            {
+                "recipe_name": "Rogan Josh",
+                "description": "A rich and spicy lamb curry from the Kashmiri region of India.",
+                "ingredients": [
+                    "lamb",
+                    "yogurt",
+                    "spices",
+                    "tomatoes",
+                    "onions"
+                ],
+                "preparation_time": "2 hours",
+                "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/29/DV3306_lamb-rogan-josh_s4x3.jpg.rend.hgtvcom.616.462.suffix/1609268557562.jpeg"
+            },
+            {
+                "recipe_name": "Gulab Jamun",
+                "description": "A sweet dessert made with milk solids, deep-fried and soaked in sugar syrup.",
+                "ingredients": [
+                    "milk solids",
+                    "flour",
+                    "sugar",
+                    "rosewater",
+                    "cardamom"
+                ],
+                "preparation_time": "1 hour",
+                "image": "https://static.toiimg.com/photo/65841454.cms"
+            }
+        ]
     },
     {
         "id": 2,
@@ -73,114 +121,462 @@
         "num_of_recipes": 7,
         "likes": 900,
         "recipes": [
-          {
-            "recipe_name": "Aloo Gobi",
-            "description": "A popular vegetarian dish from North India made with potatoes and cauliflower.",
-            "ingredients": ["potatoes", "cauliflower", "spices", "tomatoes", "onions"],
-            "preparation_time": "30 minutes",
-            "image": "https://www.spiceupthecurry.com/wp-content/uploads/2021/06/aloo-gobi-3.jpg"
-          },
-          {
-            "recipe_name": "Chicken Biryani",
-            "description": "A fragrant and flavorful rice dish made with marinated chicken, spices, and herbs.",
-            "ingredients": ["chicken", "rice", "spices", "yogurt", "mint leaves"],
-            "preparation_time": "1 hour",
-            "image": "https://glebekitchen.com/wp-content/uploads/2019/12/chickenbiryanibowltop.jpg"
-          },
-          {
-            "recipe_name": "Baingan Bharta",
-            "description": "A smoky and spicy eggplant dish from North India.",
-            "ingredients": ["eggplant", "tomatoes", "onions", "spices", "coriander leaves"],
-            "preparation_time": "45 minutes",
-            "image": "https://www.teaforturmeric.com/wp-content/uploads/2016/12/Baingan-Bharta-3.jpg"
-          },
-          {
-            "recipe_name": "Samosa Chaat",
-            "description": "A popular Indian street food made with samosas, chutney, yogurt, and spices.",
-            "ingredients": ["samosas", "yogurt", "tamarind chutney", "coriander leaves", "chickpeas"],
-            "preparation_time": "30 minutes",
-            "image": "https://www.cookwithmanali.com/wp-content/uploads/2019/09/Samosa-Chaat-Recipe.jpg"
-          },
-          {
-            "recipe_name": "Lamb Korma",
-            "description": "A rich and creamy Mughlai dish made with tender lamb in a spiced sauce.",
-            "ingredients": ["lamb", "cream", "almonds", "spices", "onions"],
-            "preparation_time": "2 hours",
-            "image": "https://dinnerthendessert.com/wp-content/uploads/2018/07/Indian-Lamb-Curry.jpg"
-          },
-          {
-            "recipe_name": "Pav Bhaji",
-            "description": "A popular street food from Mumbai made with mashed vegetables and a buttered roll.",
-            "ingredients": ["potatoes", "peas", "tomatoes", "butter", "rolls"],
-            "preparation_time": "45 minutes",
-            "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2022/02/01171428/YFL-Pav-Bhaji-3.jpg"
-          },
-          {
-            "recipe_name": "Gajar Halwa",
-            "description": "A delicious Indian dessert made with grated carrots, milk, and sugar.",
-            "ingredients": ["carrots", "milk", "sugar", "ghee", "cardamom"],
-            "preparation_time": "1 hour",
-            "image": "https://spicecravings.com/wp-content/uploads/2018/01/Carrot-Halwa-Featured.jpg"
-          }
+            {
+                "recipe_name": "Aloo Gobi",
+                "description": "A popular vegetarian dish from North India made with potatoes and cauliflower.",
+                "ingredients": [
+                    "potatoes",
+                    "cauliflower",
+                    "spices",
+                    "tomatoes",
+                    "onions"
+                ],
+                "preparation_time": "30 minutes",
+                "image": "https://www.spiceupthecurry.com/wp-content/uploads/2021/06/aloo-gobi-3.jpg"
+            },
+            {
+                "recipe_name": "Chicken Biryani",
+                "description": "A fragrant and flavorful rice dish made with marinated chicken, spices, and herbs.",
+                "ingredients": [
+                    "chicken",
+                    "rice",
+                    "spices",
+                    "yogurt",
+                    "mint leaves"
+                ],
+                "preparation_time": "1 hour",
+                "image": "https://glebekitchen.com/wp-content/uploads/2019/12/chickenbiryanibowltop.jpg"
+            },
+            {
+                "recipe_name": "Baingan Bharta",
+                "description": "A smoky and spicy eggplant dish from North India.",
+                "ingredients": [
+                    "eggplant",
+                    "tomatoes",
+                    "onions",
+                    "spices",
+                    "coriander leaves"
+                ],
+                "preparation_time": "45 minutes",
+                "image": "https://www.teaforturmeric.com/wp-content/uploads/2016/12/Baingan-Bharta-3.jpg"
+            },
+            {
+                "recipe_name": "Samosa Chaat",
+                "description": "A popular Indian street food made with samosas, chutney, yogurt, and spices.",
+                "ingredients": [
+                    "samosas",
+                    "yogurt",
+                    "tamarind chutney",
+                    "coriander leaves",
+                    "chickpeas"
+                ],
+                "preparation_time": "30 minutes",
+                "image": "https://www.cookwithmanali.com/wp-content/uploads/2019/09/Samosa-Chaat-Recipe.jpg"
+            },
+            {
+                "recipe_name": "Lamb Korma",
+                "description": "A rich and creamy Mughlai dish made with tender lamb in a spiced sauce.",
+                "ingredients": [
+                    "lamb",
+                    "cream",
+                    "almonds",
+                    "spices",
+                    "onions"
+                ],
+                "preparation_time": "2 hours",
+                "image": "https://dinnerthendessert.com/wp-content/uploads/2018/07/Indian-Lamb-Curry.jpg"
+            },
+            {
+                "recipe_name": "Pav Bhaji",
+                "description": "A popular street food from Mumbai made with mashed vegetables and a buttered roll.",
+                "ingredients": [
+                    "potatoes",
+                    "peas",
+                    "tomatoes",
+                    "butter",
+                    "rolls"
+                ],
+                "preparation_time": "45 minutes",
+                "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2022/02/01171428/YFL-Pav-Bhaji-3.jpg"
+            },
+            {
+                "recipe_name": "Gajar Halwa",
+                "description": "A delicious Indian dessert made with grated carrots, milk, and sugar.",
+                "ingredients": [
+                    "carrots",
+                    "milk",
+                    "sugar",
+                    "ghee",
+                    "cardamom"
+                ],
+                "preparation_time": "1 hour",
+                "image": "https://spicecravings.com/wp-content/uploads/2018/01/Carrot-Halwa-Featured.jpg"
+            }
         ]
-      },
-      {
-        "id": 7,
+    },
+    {
+        "id": 3,
         "chef_picture": "https://www.southwalesargus.co.uk/resources/images/6283790/?type=responsive-gallery-fullscreen",
         "chef_name": "Anjum Anand",
         "years_of_experience": "18",
         "num_of_recipes": 7,
         "likes": 2000,
         "recipes": [
-          {
-            "recipe_name": "Chicken Tikka Masala",
-            "description": "A popular chicken dish made with marinated chicken in a spiced tomato-based sauce.",
-            "ingredients": ["chicken", "yogurt", "tomatoes", "spices", "cream"],
-            "preparation_time": "1 hour",
-            "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/3/0/FNK_the-best-chicken-tikka-masala_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1567523604572.jpeg"
-          },
-          {
-            "recipe_name": "Saag Aloo",
-            "description": "A vegetarian dish made with spinach and potatoes in a spiced sauce.",
-            "ingredients": ["spinach", "potatoes", "onions", "spices", "ghee"],
-            "preparation_time": "45 minutes",
-            "image": "https://www.kitchensanctuary.com/wp-content/uploads/2021/03/Saag-Aloo-tall-FS-45.jpg"
-          },
-          {
-            "recipe_name": "Dosa",
-            "description": "A crispy South Indian crepe made with fermented rice and lentil batter.",
-            "ingredients": ["rice", "lentils", "oil", "potatoes", "sambar"],
-            "preparation_time": "12 hours (including fermentation)",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg1ub25_fBUpnzORr5A3yt1ocMentMDmywfWEahpQfmEvsDceZIB4xybDt88Fbnf-qU7g&usqp=CAU"
-          },
-          {
-            "recipe_name": "Pakoras",
-            "description": "A popular Indian snack made with battered and fried vegetables.",
-            "ingredients": ["vegetables", "gram flour", "spices", "oil", "chutney"],
-            "preparation_time": "30 minutes",
-            "image": "https://www.recipetineats.com/wp-content/uploads/2021/05/Pakora_1.jpg"
-          },
-          {
-            "recipe_name": "Mutton Biryani",
-            "description": "A flavorful rice dish made with tender mutton and a variety of Indian spices.",
-            "ingredients": ["mutton", "rice", "spices", "yogurt", "mint leaves"],
-            "preparation_time": "2 hours",
-            "image": "https://www.panningtheglobe.com/wp-content/uploads/2014/10/lamb-biryani-680-web.jpg"
-          },
-          {
-            "recipe_name": "Paneer Tikka",
-            "description": "A vegetarian appetizer made with marinated paneer (Indian cheese) and grilled to perfection.",
-            "ingredients": ["paneer", "yogurt", "spices", "bell peppers", "onions"],
-            "preparation_time": "1 hour",
-            "image": "https://healthynibblesandbits.com/wp-content/uploads/2019/07/Paneer-Tikka-Masala-5.jpg"
-          },
-          {
-            "recipe_name": "Rasmalai",
-            "description": "A sweet dessert made with soft milk balls soaked in a saffron-flavored milk syrup.",
-            "ingredients": ["milk", "saffron", "sugar", "cardamom", "pistachios"],
-            "preparation_time": "1 hour",
-            "image": "https://www.cookingcarnival.com/wp-content/uploads/2016/03/Rasmalai.jpg"
-          }
+            {
+                "recipe_name": "Chicken Tikka Masala",
+                "description": "A popular chicken dish made with marinated chicken in a spiced tomato-based sauce.",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "tomatoes",
+                    "spices",
+                    "cream"
+                ],
+                "preparation_time": "1 hour",
+                "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/3/0/FNK_the-best-chicken-tikka-masala_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1567523604572.jpeg"
+            },
+            {
+                "recipe_name": "Saag Aloo",
+                "description": "A vegetarian dish made with spinach and potatoes in a spiced sauce.",
+                "ingredients": [
+                    "spinach",
+                    "potatoes",
+                    "onions",
+                    "spices",
+                    "ghee"
+                ],
+                "preparation_time": "45 minutes",
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2021/03/Saag-Aloo-tall-FS-45.jpg"
+            },
+            {
+                "recipe_name": "Dosa",
+                "description": "A crispy South Indian crepe made with fermented rice and lentil batter.",
+                "ingredients": [
+                    "rice",
+                    "lentils",
+                    "oil",
+                    "potatoes",
+                    "sambar"
+                ],
+                "preparation_time": "12 hours (including fermentation)",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg1ub25_fBUpnzORr5A3yt1ocMentMDmywfWEahpQfmEvsDceZIB4xybDt88Fbnf-qU7g&usqp=CAU"
+            },
+            {
+                "recipe_name": "Pakoras",
+                "description": "A popular Indian snack made with battered and fried vegetables.",
+                "ingredients": [
+                    "vegetables",
+                    "gram flour",
+                    "spices",
+                    "oil",
+                    "chutney"
+                ],
+                "preparation_time": "30 minutes",
+                "image": "https://www.recipetineats.com/wp-content/uploads/2021/05/Pakora_1.jpg"
+            },
+            {
+                "recipe_name": "Mutton Biryani",
+                "description": "A flavorful rice dish made with tender mutton and a variety of Indian spices.",
+                "ingredients": [
+                    "mutton",
+                    "rice",
+                    "spices",
+                    "yogurt",
+                    "mint leaves"
+                ],
+                "preparation_time": "2 hours",
+                "image": "https://www.panningtheglobe.com/wp-content/uploads/2014/10/lamb-biryani-680-web.jpg"
+            },
+            {
+                "recipe_name": "Paneer Tikka",
+                "description": "A vegetarian appetizer made with marinated paneer (Indian cheese) and grilled to perfection.",
+                "ingredients": [
+                    "paneer",
+                    "yogurt",
+                    "spices",
+                    "bell peppers",
+                    "onions"
+                ],
+                "preparation_time": "1 hour",
+                "image": "https://healthynibblesandbits.com/wp-content/uploads/2019/07/Paneer-Tikka-Masala-5.jpg"
+            },
+            {
+                "recipe_name": "Rasmalai",
+                "description": "A sweet dessert made with soft milk balls soaked in a saffron-flavored milk syrup.",
+                "ingredients": [
+                    "milk",
+                    "saffron",
+                    "sugar",
+                    "cardamom",
+                    "pistachios"
+                ],
+                "preparation_time": "1 hour",
+                "image": "https://www.cookingcarnival.com/wp-content/uploads/2016/03/Rasmalai.jpg"
+            }
         ]
-      }      
-  ]
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://www.deccanherald.com/sites/dh/files/article_images/2017/12/01/645698.jpg",
+        "chef_name": "Vikas Khanna",
+        "years_of_experience": "13",
+        "num_of_recipes": 6,
+        "likes": 1400,
+        "recipes": [
+            {
+                "recipe_name": "Lamb Korma",
+                "description": "A rich and creamy Mughlai dish made with tender lamb in a spiced sauce.",
+                "ingredients": [
+                    "lamb",
+                    "cream",
+                    "almonds",
+                    "spices",
+                    "onions"
+                ],
+                "preparation_time": "2 hours",
+                "image": "https://dinnerthendessert.com/wp-content/uploads/2018/07/Indian-Lamb-Curry.jpg"
+            },
+            {
+                "recipe_name": "Pav Bhaji",
+                "description": "A popular street food from Mumbai made with mashed vegetables and a buttered roll.",
+                "ingredients": [
+                    "potatoes",
+                    "peas",
+                    "tomatoes",
+                    "butter",
+                    "rolls"
+                ],
+                "preparation_time": "45 minutes",
+                "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2022/02/01171428/YFL-Pav-Bhaji-3.jpg"
+            },
+            {
+                "recipe_name": "Chicken Tikka Masala",
+                "description": "A popular chicken dish made with marinated chicken in a spiced tomato-based sauce.",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "tomatoes",
+                    "spices",
+                    "cream"
+                ],
+                "preparation_time": "1 hour",
+                "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/3/0/FNK_the-best-chicken-tikka-masala_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1567523604572.jpeg"
+            },
+            {
+                "recipe_name": "Saag Aloo",
+                "description": "A vegetarian dish made with spinach and potatoes in a spiced sauce.",
+                "ingredients": [
+                    "spinach",
+                    "potatoes",
+                    "onions",
+                    "spices",
+                    "ghee"
+                ],
+                "preparation_time": "45 minutes",
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2021/03/Saag-Aloo-tall-FS-45.jpg"
+            },
+            {
+                "recipe_name": "Chana Masala",
+                "description": "A flavorful and spicy chickpea curry from North India.",
+                "ingredients": [
+                    "chickpeas",
+                    "tomatoes",
+                    "spices",
+                    "onions",
+                    "garlic"
+                ],
+                "preparation_time": "30 minutes",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdAUFuufRmbSNDUTdnBb1PBYsiKqkHuW9Fu72okLcE67RwThuvQfJPT5d07-rHQ9driqM&usqp=CAU"
+            },
+            {
+                "recipe_name": "Chicken Tikka Masala",
+                "description": "A popular dish made with marinated chicken in a spiced tomato-based sauce.",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "tomatoes",
+                    "spices",
+                    "cream"
+                ],
+                "preparation_time": "45 minutes",
+                "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/3/0/FNK_the-best-chicken-tikka-masala_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1567523604572.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://assets.thehansindia.com/h-upload/2020/07/09/982680-chef-sanjeev-kapoor.webp",
+        "chef_name": "Sanjeev Kapoor",
+        "years_of_experience": "23",
+        "num_of_recipes": 6,
+        "likes": 1600,
+        "recipes": [
+            {
+                "recipe_name": "Chana Masala",
+                "description": "A flavorful and spicy chickpea curry from North India.",
+                "ingredients": [
+                    "chickpeas",
+                    "tomatoes",
+                    "spices",
+                    "onions",
+                    "garlic"
+                ],
+                "preparation_time": "30 minutes",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdAUFuufRmbSNDUTdnBb1PBYsiKqkHuW9Fu72okLcE67RwThuvQfJPT5d07-rHQ9driqM&usqp=CAU"
+            },
+            {
+                "recipe_name": "Chicken Tikka Masala",
+                "description": "A popular dish made with marinated chicken in a spiced tomato-based sauce.",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "tomatoes",
+                    "spices",
+                    "cream"
+                ],
+                "preparation_time": "45 minutes",
+                "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/3/0/FNK_the-best-chicken-tikka-masala_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1567523604572.jpeg"
+            },
+            {
+                "recipe_name": "Butter Chicken",
+                "description": "A classic North Indian dish made with tender chicken in a creamy tomato sauce.",
+                "ingredients": [
+                    "chicken",
+                    "tomatoes",
+                    "cream",
+                    "spices",
+                    "butter"
+                ],
+                "preparation_time": "40 minutes",
+                "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/3/0/FNK_the-best-butter-chicken_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1568051312157.jpeg"
+            },
+            {
+                "recipe_name": "Palak Paneer",
+                "description": "A popular North Indian vegetarian dish made with spinach and paneer.",
+                "ingredients": [
+                    "spinach",
+                    "paneer",
+                    "spices",
+                    "cream",
+                    "tomatoes"
+                ],
+                "preparation_time": "35 minutes",
+                "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/2/0/ZA0304H_saag-paneer-spinach-with-indian-cheese_s4x3.jpg.rend.hgtvcom.616.462.suffix/1488497807789.jpeg"
+            },
+            {
+                "recipe_name": "Chicken Biryani",
+                "description": "A fragrant and flavorful rice dish made with marinated chicken, spices, and herbs.",
+                "ingredients": [
+                    "chicken",
+                    "rice",
+                    "spices",
+                    "yogurt",
+                    "mint leaves"
+                ],
+                "preparation_time": "1 hour",
+                "image": "https://glebekitchen.com/wp-content/uploads/2019/12/chickenbiryanibowltop.jpg"
+            },
+            {
+                "recipe_name": "Baingan Bharta",
+                "description": "A smoky and spicy eggplant dish from North India.",
+                "ingredients": [
+                    "eggplant",
+                    "tomatoes",
+                    "onions",
+                    "spices",
+                    "coriander leaves"
+                ],
+                "preparation_time": "45 minutes",
+                "image": "https://www.teaforturmeric.com/wp-content/uploads/2016/12/Baingan-Bharta-3.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://www.outlookindia.com/outlooktraveller/public/uploads/filemanager/images/Celebrity-chef-and-restaurateur---Kunal-Kapur.jpg",
+        "chef_name": "Kunal Kapur",
+        "years_of_experience": "9",
+        "num_of_recipes": 6,
+        "likes": 1200,
+        "recipes": [
+            {
+                "recipe_name": "Dosa",
+                "description": "A crispy South Indian crepe made with fermented rice and lentil batter.",
+                "ingredients": [
+                    "rice",
+                    "lentils",
+                    "oil",
+                    "potatoes",
+                    "sambar"
+                ],
+                "preparation_time": "12 hours (including fermentation)",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg1ub25_fBUpnzORr5A3yt1ocMentMDmywfWEahpQfmEvsDceZIB4xybDt88Fbnf-qU7g&usqp=CAU"
+            },
+            {
+                "recipe_name": "Pakoras",
+                "description": "A popular Indian snack made with battered and fried vegetables.",
+                "ingredients": [
+                    "vegetables",
+                    "gram flour",
+                    "spices",
+                    "oil",
+                    "chutney"
+                ],
+                "preparation_time": "30 minutes",
+                "image": "https://www.recipetineats.com/wp-content/uploads/2021/05/Pakora_1.jpg"
+            },
+            {
+                "recipe_name": "Mutton Biryani",
+                "description": "A flavorful rice dish made with tender mutton and a variety of Indian spices.",
+                "ingredients": [
+                    "mutton",
+                    "rice",
+                    "spices",
+                    "yogurt",
+                    "mint leaves"
+                ],
+                "preparation_time": "2 hours",
+                "image": "https://www.panningtheglobe.com/wp-content/uploads/2014/10/lamb-biryani-680-web.jpg"
+            },
+            {
+                "recipe_name": "Paneer Tikka",
+                "description": "A vegetarian appetizer made with marinated paneer (Indian cheese) and grilled to perfection.",
+                "ingredients": [
+                    "paneer",
+                    "yogurt",
+                    "spices",
+                    "bell peppers",
+                    "onions"
+                ],
+                "preparation_time": "1 hour",
+                "image": "https://healthynibblesandbits.com/wp-content/uploads/2019/07/Paneer-Tikka-Masala-5.jpg"
+            },
+            {
+                "recipe_name": "Baingan Bharta",
+                "description": "A smoky and spicy eggplant dish from North India.",
+                "ingredients": [
+                    "eggplant",
+                    "tomatoes",
+                    "onions",
+                    "spices",
+                    "coriander leaves"
+                ],
+                "preparation_time": "45 minutes",
+                "image": "https://www.teaforturmeric.com/wp-content/uploads/2016/12/Baingan-Bharta-3.jpg"
+            },
+            {
+                "recipe_name": "Samosa Chaat",
+                "description": "A popular Indian street food made with samosas, chutney, yogurt, and spices.",
+                "ingredients": [
+                    "samosas",
+                    "yogurt",
+                    "tamarind chutney",
+                    "coriander leaves",
+                    "chickpeas"
+                ],
+                "preparation_time": "30 minutes",
+                "image": "https://www.cookwithmanali.com/wp-content/uploads/2019/09/Samosa-Chaat-Recipe.jpg"
+            }
+        ]
+    }
+]
