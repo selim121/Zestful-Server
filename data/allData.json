@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "chef_picture": "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/293801499_5947960655218335_4657835387268581503_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGHfItLaBTYSkK5Iq0cpOKk7MtnnU7vMwjsy2edTu8zCPCDdyxQKWZ94NL3z2z3bXAJg9gYjS2bUOlB2SdQrPRu&_nc_ohc=fKwnAqX1MwMAX_RJFCJ&_nc_ht=scontent.fdac14-1.fna&oh=00_AfAb7y1yiBgb41Y-7ylw1JfmG_7MK1fC7EzQZsYL2u3uEQ&oe=645675C0",
+      "chef_name": "Aarti Sharma",
+      "years_of_experience": "10",
+      "num_of_recipes": 8,
+      "likes": 850,
+      "recipes": [
+        {
+          "recipe_name": "Butter Chicken",
+          "description": "A classic North Indian dish made with tender chicken in a creamy tomato sauce.",
+          "ingredients": ["chicken", "tomatoes", "cream", "spices", "butter"],
+          "preparation_time": "40 minutes",
+          "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/3/0/FNK_the-best-butter-chicken_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1568051312157.jpeg"
+        },
+        {
+          "recipe_name": "Palak Paneer",
+          "description": "A popular North Indian vegetarian dish made with spinach and paneer.",
+          "ingredients": ["spinach", "paneer", "spices", "cream", "tomatoes"],
+          "preparation_time": "35 minutes",
+          "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/2/0/ZA0304H_saag-paneer-spinach-with-indian-cheese_s4x3.jpg.rend.hgtvcom.616.462.suffix/1488497807789.jpeg"
+        },
+        {
+          "recipe_name": "Masala Dosa",
+          "description": "A South Indian breakfast dish made with fermented rice and lentil batter, filled with spicy potato filling.",
+          "ingredients": ["rice", "lentils", "potatoes", "spices", "coconut chutney"],
+          "preparation_time": "12 hours",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg1ub25_fBUpnzORr5A3yt1ocMentMDmywfWEahpQfmEvsDceZIB4xybDt88Fbnf-qU7g&usqp=CAU"
+        },
+        {
+          "recipe_name": "Chana Masala",
+          "description": "A flavorful and spicy chickpea curry from North India.",
+          "ingredients": ["chickpeas", "tomatoes", "spices", "onions", "garlic"],
+          "preparation_time": "30 minutes",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdAUFuufRmbSNDUTdnBb1PBYsiKqkHuW9Fu72okLcE67RwThuvQfJPT5d07-rHQ9driqM&usqp=CAU"
+        },
+        {
+          "recipe_name": "Chicken Tikka Masala",
+          "description": "A popular dish made with marinated chicken in a spiced tomato-based sauce.",
+          "ingredients": ["chicken", "yogurt", "tomatoes", "spices", "cream"],
+          "preparation_time": "45 minutes",
+          "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/3/0/FNK_the-best-chicken-tikka-masala_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1567523604572.jpeg"
+        },
+        {
+          "recipe_name": "Samosas",
+          "description": "A savory fried or baked pastry filled with spiced potatoes, peas, and onions.",
+          "ingredients": ["potatoes", "peas", "flour", "spices", "chutney"],
+          "preparation_time": "1 hour",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Izh2byV9Wo9ja69MjTbjBg2Gy4zrUVpVbydUS_of4yZChnfhZKOEzxjX8-0DpwaMxNo&usqp=CAU"
+        },
+        {
+          "recipe_name": "Rogan Josh",
+          "description": "A rich and spicy lamb curry from the Kashmiri region of India.",
+          "ingredients": ["lamb", "yogurt", "spices", "tomatoes", "onions"],
+          "preparation_time": "2 hours",
+          "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/29/DV3306_lamb-rogan-josh_s4x3.jpg.rend.hgtvcom.616.462.suffix/1609268557562.jpeg"
+        },
+        {
+          "recipe_name": "Gulab Jamun",
+          "description": "A sweet dessert made with milk solids, deep-fried and soaked in sugar syrup.",
+          "ingredients": ["milk solids", "flour", "sugar", "rosewater", "cardamom"],
+          "preparation_time": "1 hour",
+          "image": "https://static.toiimg.com/photo/65841454.cms"
+        }
+      ]
+    }
+  ]
