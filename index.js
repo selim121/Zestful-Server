@@ -14,6 +14,13 @@ app.get('/allData', (req, res) => {
     res.send(allData);
 })
 
+app.get('/allData/:id', (req, res) => {
+    const id = req.params.id;
+    const item = allData.find((chef) => chef.id == id);
+    res.send({item});
+})
+
+
 app.listen(port, () => {
     console.log(`Zestful API is running on port: ${port}`);
 })
