@@ -25,7 +25,7 @@
             },
             {
                 "recipe_name": "Palak Paneer",
-                "rating": "5",
+                "rating": "4.5",
                 "cooking_method": "Grilling",
                 "description": "A popular North Indian vegetarian dish made with spinach and paneer.",
                 "ingredients": [
@@ -70,7 +70,7 @@
             },
             {
                 "recipe_name": "Chicken Tikka Masala",
-                "rating": "5",
+                "rating": "4",
                 "cooking_method": "Frying",
                 "description": "A popular dish made with marinated chicken in a spiced tomato-based sauce.",
                 "ingredients": [
@@ -100,7 +100,7 @@
             },
             {
                 "recipe_name": "Rogan Josh",
-                "rating": "5",
+                "rating": "4.5",
                 "cooking_method": "Baking",
                 "description": "A rich and spicy lamb curry from the Kashmiri region of India.",
                 "ingredients": [
@@ -156,7 +156,7 @@
             },
             {
                 "recipe_name": "Chicken Biryani",
-                "rating": "5",
+                "rating": "4",
                 "cooking_method": "Grilling",
                 "description": "A fragrant and flavorful rice dish made with marinated chicken, spices, and herbs.",
                 "ingredients": [
@@ -171,7 +171,7 @@
             },
             {
                 "recipe_name": "Baingan Bharta",
-                "rating": "5",
+                "rating": "4.5",
                 "cooking_method": "Roasting",
                 "description": "A smoky and spicy eggplant dish from North India.",
                 "ingredients": [
@@ -201,7 +201,7 @@
             },
             {
                 "recipe_name": "Lamb Korma",
-                "rating": "5",
+                "rating": "4.5",
                 "cooking_method": "Baking",
                 "description": "A rich and creamy Mughlai dish made with tender lamb in a spiced sauce.",
                 "ingredients": [
@@ -231,7 +231,7 @@
             },
             {
                 "recipe_name": "Gajar Halwa",
-                "rating": "5",
+                "rating": "4",
                 "cooking_method": "Baking",
                 "description": "A delicious Indian dessert made with grated carrots, milk, and sugar.",
                 "ingredients": [
@@ -272,7 +272,7 @@
             },
             {
                 "recipe_name": "Saag Aloo",
-                "rating": "5",
+                "rating": "4.5",
                 "cooking_method": "Grilling",
                 "description": "A vegetarian dish made with spinach and potatoes in a spiced sauce.",
                 "ingredients": [
@@ -287,7 +287,7 @@
             },
             {
                 "recipe_name": "Dosa",
-                "rating": "5",
+                "rating": "4",
                 "cooking_method": "Roasting",
                 "description": "A crispy South Indian crepe made with fermented rice and lentil batter.",
                 "ingredients": [
@@ -302,7 +302,7 @@
             },
             {
                 "recipe_name": "Pakoras",
-                "rating": "5",
+                "rating": "4",
                 "cooking_method": "Frying",
                 "description": "A popular Indian snack made with battered and fried vegetables.",
                 "ingredients": [
@@ -332,7 +332,7 @@
             },
             {
                 "recipe_name": "Paneer Tikka",
-                "rating": "5",
+                "rating": "4.5",
                 "cooking_method": "Baking",
                 "description": "A vegetarian appetizer made with marinated paneer (Indian cheese) and grilled to perfection.",
                 "ingredients": [
@@ -347,7 +347,7 @@
             },
             {
                 "recipe_name": "Rasmalai",
-                "rating": "5",
+                "rating": "4.5",
                 "cooking_method": "Boiling",
                 "description": "A sweet dessert made with soft milk balls soaked in a saffron-flavored milk syrup.",
                 "ingredients": [
@@ -388,7 +388,7 @@
             },
             {
                 "recipe_name": "Pav Bhaji",
-                "rating": "5",
+                "rating": "4",
                 "cooking_method": "Grilling",
                 "description": "A popular street food from Mumbai made with mashed vegetables and a buttered roll.",
                 "ingredients": [
@@ -418,7 +418,7 @@
             },
             {
                 "recipe_name": "Saag Aloo",
-                "rating": "5",
+                "rating": "4.5",
                 "cooking_method": "Boiling",
                 "description": "A vegetarian dish made with spinach and potatoes in a spiced sauce.",
                 "ingredients": [
@@ -433,7 +433,7 @@
             },
             {
                 "recipe_name": "Chana Masala",
-                "rating": "5",
+                "rating": "4",
                 "cooking_method": "Baking",
                 "description": "A flavorful and spicy chickpea curry from North India.",
                 "ingredients": [
@@ -475,7 +475,7 @@
             {
                 "recipe_name": "Chana Masala",
                 "cooking_method": "boiling",
-                "rating": "5",
+                "rating": "4",
                 "description": "A flavorful and spicy chickpea curry from North India.",
                 "ingredients": [
                     "chickpeas",
@@ -504,7 +504,7 @@
             },
             {
                 "recipe_name": "Butter Chicken",
-                "rating": "5",
+                "rating": "4.5",
                 "cooking_method": "Roasting",
                 "description": "A classic North Indian dish made with tender chicken in a creamy tomato sauce.",
                 "ingredients": [
@@ -549,7 +549,7 @@
             },
             {
                 "recipe_name": "Baingan Bharta",
-                "rating": "5",
+                "rating": "4",
                 "cooking_method": "Baking",
                 "description": "A smoky and spicy eggplant dish from North India.",
                 "ingredients": [
@@ -576,7 +576,7 @@
             {
                 "recipe_name": "Dosa",
                 "cooking_method": "boiling",
-                "rating": "5",
+                "rating": "4.5",
                 "description": "A crispy South Indian crepe made with fermented rice and lentil batter.",
                 "ingredients": [
                     "rice",
@@ -605,7 +605,7 @@
             },
             {
                 "recipe_name": "Mutton Biryani",
-                "rating": "5",
+                "rating": "4",
                 "cooking_method": "Roasting",
                 "description": "A flavorful rice dish made with tender mutton and a variety of Indian spices.",
                 "ingredients": [
@@ -650,7 +650,7 @@
             },
             {
                 "recipe_name": "Samosa Chaat",
-                "rating": "5",
+                "rating": "4.5",
                 "cooking_method": "Baking",
                 "description": "A popular Indian street food made with samosas, chutney, yogurt, and spices.",
                 "ingredients": [
